@@ -1,0 +1,26 @@
+{
+  "name": "sqlite3_adaptor",
+  "version": "0.0.1",
+  "description": "sqlite3 adaptor for nathanfaucett/orm node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanfaucett/sqlite3_adaptor.git"
+  },
+  "main": "src/index.js",
+  "keywords": [
+    "sqlite3_adaptor",
+    "sqlite3_adaptor.js"
+  ],
+  "author": "Nathan Faucett",
+  "license": "BSD-2-Clause",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "",
+    "grunt-jsbeautifier": ""
+  },
+  "dependencies": {
+    "sqlite3": "^3.0.0",
+    "type": "nathanfaucett/type",
+    "utils": "nathanfaucett/utils"
+  }
+}
