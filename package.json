@@ -1,7 +1,7 @@
 {
   "name": "sqlite3_adaptor",
   "version": "0.0.1",
-  "description": "sqlite3 adaptor for nathanfaucett/orm node.js",
+  "description": "sqlite3 adaptor for orm",
   "repository": {
     "type": "git",
     "url": "https://github.com/nathanfaucett/sqlite3_adaptor.git"
